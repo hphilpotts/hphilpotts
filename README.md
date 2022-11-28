@@ -1,4 +1,4 @@
-# About:    
+# About    
 
 - 👋 **Hi, I’m @hphilpotts**. Officially a Henry but I'm usually known as Harry.   
 - 👀 **I’m interested in** JavaScript first and foremost, especially as part of MERN stack web apps. Fullstack apps are my fave but I'm just as comfortable working on the front-end as on the back-end.     
@@ -11,6 +11,8 @@
    👨‍💼 [LinkedIn](https://www.linkedin.com/in/henry-philpotts/) | `linkedin.com/in/henry-philpotts/`    
    🥷 [Codewars](https://www.codewars.com/users/hphilpotts) | `codewars.com/users/hphilpotts`    
    🚲 [Strava](https://www.strava.com/athletes/53132661) | `strava.com/athletes/53132661`      
+   
+---      
    
 <!--  TODO : add skills in here -->
 
