@@ -14,7 +14,7 @@
    
 ---      
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hphilpotts)](https://github.com/hphilpotts/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hphilpotts)](https://github.com/hphilpotts/github-readme-stats) -->
 
 <!---
 hphilpotts/hphilpotts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
