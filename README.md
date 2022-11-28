@@ -13,6 +13,8 @@
    🚲 [Strava](https://www.strava.com/athletes/53132661) | `strava.com/athletes/53132661`      
    
 ---      
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hphilpotts)](https://github.com/hphilpotts/github-readme-stats)
    
 <!--  TODO : add skills in here -->
 
