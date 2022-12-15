@@ -9,7 +9,9 @@
 - 📫 **How to reach me**:       
    📩 [email](mailto:hphilpotts@gmail.com) | `hphilpotts@gmail.com`   
    👨‍💼 [LinkedIn](https://www.linkedin.com/in/henry-philpotts/) | `linkedin.com/in/henry-philpotts/`    
-   🥷 ![Codewars Badge](https://www.codewars.com/users/hphilpotts/badges/micro) [Codewars](https://www.codewars.com/users/hphilpotts) | `codewars.com/users/hphilpotts`    
+   🥷 [Codewars](https://www.codewars.com/users/hphilpotts) | `codewars.com/users/hphilpotts`    
+   --> ![Codewars Badge](https://www.codewars.com/users/hphilpotts/badges/micro)     
+   
 <!--    🚲 [Strava](https://www.strava.com/athletes/53132661) | `strava.com/athletes/53132661`       -->
    
 ---      
