@@ -10,7 +10,8 @@
    📩 [email](mailto:hphilpotts@gmail.com) | `hphilpotts@gmail.com`   
    👨‍💼 [LinkedIn](https://www.linkedin.com/in/henry-philpotts/) | `linkedin.com/in/henry-philpotts/`    
    🥷 [Codewars](https://www.codewars.com/users/hphilpotts) | `codewars.com/users/hphilpotts`    
-   🚲 [Strava](https://www.strava.com/athletes/53132661) | `strava.com/athletes/53132661`      
+   ![Codewars Badge](https://www.codewars.com/users/hphilpotts/badges/micro)
+<!--    🚲 [Strava](https://www.strava.com/athletes/53132661) | `strava.com/athletes/53132661`       -->
    
 ---      
 
