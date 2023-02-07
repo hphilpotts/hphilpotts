@@ -6,6 +6,7 @@
 <p align="center">
    <img src="https://github.com/hphilpotts/miniproject-static-calculator/blob/main/img/screengrab.png?raw=true" width="300"/>    
 </p>
+
 # About:
 - 👀 **I’m interested in** JavaScript first and foremost, especially as part of MERN stack web apps, but I also love working in Python. Fullstack apps are my fave but I'm just as comfortable working on the front-end as on the back-end. I'm also learning TypeScript and am finding the differences with JS fascinating!         
 - 👉 Currently searching for my first job in software development! 🕵️‍♂️             
