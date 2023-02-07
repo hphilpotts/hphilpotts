@@ -1,7 +1,7 @@
 ### 👋 **Hi, I’m @hphilpotts**. Officially a Henry but I'm usually known as Harry.   
 
 # 👷‍ Current side-project:      
-<img src="https://github.com/hphilpotts/miniproject-static-calculator/blob/main/img/screengrab.png?raw=true"/>    
+<img src="https://github.com/hphilpotts/miniproject-static-calculator/blob/main/img/screengrab.png?raw=true" max-width="300"/>    
 - TypeScript 'old school' calculator miniproject - initially built using simple HTML & CSS and vanilla JS, later converted to TS.      
 - Have a look at the latest deployment [here](https://hphilpotts.github.io/miniproject-static-calculator/) and project repo [here](https://github.com/hphilpotts/miniproject-static-calculator)! 
 
