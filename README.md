@@ -1,12 +1,14 @@
 ## 👋     **Hi, I’m @hphilpotts**      
 ...officially a Henry but I'm usually known as Harry.   
 
-## 👷‍ Current side-project:    
-- TypeScript 'old school' calculator miniproject - initially built using simple HTML & CSS and vanilla JS, later converted to TS.      
-- Have a look at the latest deployment [here](https://hphilpotts.github.io/miniproject-static-calculator/) and project repo [here](https://github.com/hphilpotts/miniproject-static-calculator)!      
+## 👷‍ Current side-projects:    
+- TypeScript 'old school' calculator miniproject - initially built using simple HTML & CSS and vanilla JS, later converted to TS. Have a look at the latest deployment [here](https://hphilpotts.github.io/miniproject-static-calculator/) and project repo [here](https://github.com/hphilpotts/miniproject-static-calculator)!  
+    
 <p align="center">
    <img src="https://github.com/hphilpotts/miniproject-static-calculator/blob/main/img/screengrab.png?raw=true" width="300"/>    
-</p>
+</p>     
+
+- MERN stack linked front-end and [back-end](https://github.com/hphilpotts/veg-app-backend) apps to track eating your 5-a-day (or 10!) - currently I'm setting up the backend.          
 
 ## 👉 About:
 - 👀 **I’m interested in** JavaScript first and foremost, especially as part of MERN stack web apps, but I also love working in Python. Fullstack apps are my fave but I'm just as comfortable working on the front-end as on the back-end. I'm also learning TypeScript and am finding the differences with JS fascinating!         
